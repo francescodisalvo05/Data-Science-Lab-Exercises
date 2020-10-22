@@ -10,5 +10,5 @@ Credits to the authors of the exercises: Andrea Pasini, Giuseppe Attanasio, Flav
 
 2. [Laboratory-15-10-2020.ipynb](https://github.com/francescodisalvo05/Data-Science-Lab-Exercises/blob/main/Notebooks/2-Laboratory-15-10-2020.ipynb) : data cleaning, similarity and dissimilarity
 
-3. [Laboratory-22-10-2020.ipynb](https://github.com/francescodisalvo05/Data-Science-Lab-Exercises/blob/main/Notebooks/3-Laboratory-22-10-2020.ipynb) : association rules, apriori, fpgrowth 
+3. [Laboratory-22-10-2020.ipynb](https://github.com/francescodisalvo05/Data-Science-Lab-Exercises/blob/main/Notebooks/3-Laboratory-22-10-2020.ipynb) : association rules, apriori (+ peronsal implementation), fpgrowth 
 
