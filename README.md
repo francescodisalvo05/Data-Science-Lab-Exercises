@@ -12,3 +12,6 @@ Credits to the authors of the exercises: Andrea Pasini, Giuseppe Attanasio, Flav
 
 3. [Laboratory-22-10-2020.ipynb](https://github.com/francescodisalvo05/Data-Science-Lab-Exercises/blob/main/Notebooks/3-Laboratory-22-10-2020.ipynb) : association rules, apriori (+ peronsal implementation), fpgrowth 
 
+4. [Laboratory-22-10-2020.ipynb](https://github.com/francescodisalvo05/Data-Science-Lab-Exercises/blob/main/Notebooks/4-Laboratory-29-10-2020.ipynb) : KNN design and implementation
+
+
