@@ -1,6 +1,6 @@
-# Data-Science-Lab-Exercises
+# polito-data-science-lab
 
-In this repository I'll upload all my assignements of the subject "Data Science Lab" during my 1st year of the Master of Science in Data Science and Engineering at Politecnico di Torino. 
+In this repository I'll upload all my assignements of the subject "Data Science Lab: Process and Methods" during my 1st year of the Master of Science in Data Science and Engineering at Politecnico di Torino. 
 
 Credits to the authors of the exercises: Andrea Pasini, Giuseppe Attanasio, Flavio Giobergia, Francesco Ventura
 You can find the material [here](https://dbdmg.polito.it/wordpress/teaching/data-science-lab-process-and-methods-2020-2021/) 
