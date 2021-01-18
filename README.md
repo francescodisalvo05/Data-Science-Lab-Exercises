@@ -2,7 +2,7 @@
 
 In this repository I uploaded all my assignements for the "Data Science Lab" course, during my 1st year of the MSc in Data Science and Engineering at Politecnico di Torino. 
 
-Credits to the authors of the exercises: Andrea Pasini, Giuseppe Attanasio, Flavio Giobergia, Francesco Ventura
+> Credits to the authors of the exercises: Andrea Pasini, Giuseppe Attanasio, Flavio Giobergia, Francesco Ventura. <br />
 You can find the material [here](https://dbdmg.polito.it/wordpress/teaching/data-science-lab-process-and-methods-2020-2021/) 
 
 1. [Laboratory-08-10-2020](https://github.com/francescodisalvo05/Data-Science-Lab-Exercises/blob/main/Notebooks/1-Laboratory-08-10-2020.ipynb) : algebric calculation over lists, dictionaries, opening and working on csv/json ...
